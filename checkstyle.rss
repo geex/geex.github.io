@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2015</copyright>
     <item>
-      <title>File: 58,
+      <title>File: 66,
              Errors: 0,
              Warnings: 0,
              Infos: 0
@@ -44,6 +44,20 @@ under the License.
             </tr>
           </thead>
           <tbody>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.controller.SubGraphController.java">nl/tudelft/context/controller/SubGraphController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
                           <tr>
                 <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.controller.WelcomeController.java">nl/tudelft/context/controller/WelcomeController.java</a>
@@ -173,6 +187,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.newick.selection.All.java">nl/tudelft/context/model/newick/selection/All.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.resistance.package-info.java">nl/tudelft/context/model/resistance/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -326,6 +354,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.effects.package-info.java">nl/tudelft/context/effects/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.drawable.BaseLabel.java">nl/tudelft/context/drawable/BaseLabel.java</a>
                 </td>
                 <td>
@@ -341,6 +383,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.graph.GraphNode.java">nl/tudelft/context/model/graph/GraphNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.resistance.ResistanceParser.java">nl/tudelft/context/model/resistance/ResistanceParser.java</a>
                 </td>
                 <td>
                   0
@@ -410,6 +466,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.resistance.ResistanceMap.java">nl/tudelft/context/model/resistance/ResistanceMap.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.resistance.Resistance.java">nl/tudelft/context/model/resistance/Resistance.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.graph.Node.java">nl/tudelft/context/model/graph/Node.java</a>
                 </td>
                 <td>
@@ -425,6 +509,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.model.newick.package-info.java">nl/tudelft/context/model/newick/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.controller.DefaultGraphController.java">nl/tudelft/context/controller/DefaultGraphController.java</a>
                 </td>
                 <td>
                   0
@@ -831,6 +929,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.controller.ViewController.java">nl/tudelft/context/controller/ViewController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/checkstyle.html#nl.tudelft.context.effects.Zoom.java">nl/tudelft/context/effects/Zoom.java</a>
                 </td>
                 <td>
                   0
