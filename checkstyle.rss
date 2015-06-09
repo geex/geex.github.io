@@ -19,20 +19,20 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>geex-workspace - Checkstyle report</title>
-    <link>http://github.com/Vennik/contextproject/geex-workspace</link>
-    <description>geex-workspace - Checkstyle report</description>
+    <title>geex-core - Checkstyle report</title>
+    <link>http://github.com/Vennik/contextproject/geex-core</link>
+    <description>geex-core - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2015</copyright>
     <item>
-      <title>File: 3,
-             Errors: 0,
+      <title>File: 37,
+             Errors: 2,
              Warnings: 0,
              Infos: 0
       </title>
-            <link>http://github.com/Vennik/contextproject/geex-workspace/checkstyle.html</link>
+            <link>http://github.com/Vennik/contextproject/geex-core/checkstyle.html</link>
       <description>
-        <p>Click <a href="http://github.com/Vennik/contextproject/geex-workspace/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://github.com/Vennik/contextproject/geex-workspace/checkstyle.html#nl.tudelft.context.workspace.Workspace.java">nl/tudelft/context/workspace/Workspace.java</a>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.AbstractGraphController.java">nl/tudelft/context/controller/AbstractGraphController.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://github.com/Vennik/contextproject/geex-workspace/checkstyle.html#nl.tudelft.context.workspace.package-info.java">nl/tudelft/context/workspace/package-info.java</a>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.SubGraphController.java">nl/tudelft/context/controller/SubGraphController.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +74,483 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://github.com/Vennik/contextproject/geex-workspace/checkstyle.html#nl.tudelft.context.workspace.Database.java">nl/tudelft/context/workspace/Database.java</a>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.WelcomeController.java">nl/tudelft/context/controller/WelcomeController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.MainController.java">nl/tudelft/context/controller/MainController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.MenuController.java">nl/tudelft/context/controller/MenuController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.DrawableEdge.java">nl/tudelft/context/drawable/DrawableEdge.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.DrawablePosition.java">nl/tudelft/context/drawable/DrawablePosition.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.package-info.java">nl/tudelft/context/drawable/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.package-info.java">nl/tudelft/context/drawable/graph/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableNode.java">nl/tudelft/context/drawable/graph/DrawableNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.breadcrumb.package-info.java">nl/tudelft/context/breadcrumb/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.App.java">nl/tudelft/context/App.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.NewickLabel.java">nl/tudelft/context/drawable/NewickLabel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableGraphNodeLabel.java">nl/tudelft/context/drawable/graph/DrawableGraphNodeLabel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.overlay.package-info.java">nl/tudelft/context/controller/overlay/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.overlay.OverlayController.java">nl/tudelft/context/controller/overlay/OverlayController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.SelectNewickController.java">nl/tudelft/context/controller/SelectNewickController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.GraphController.java">nl/tudelft/context/controller/GraphController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.MessageController.java">nl/tudelft/context/controller/MessageController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.effects.package-info.java">nl/tudelft/context/effects/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableGraph.java">nl/tudelft/context/drawable/graph/DrawableGraph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.AbstractController.java">nl/tudelft/context/controller/AbstractController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.BaseLabel.java">nl/tudelft/context/drawable/graph/BaseLabel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableGraphNode.java">nl/tudelft/context/drawable/graph/DrawableGraphNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.package-info.java">nl/tudelft/context/controller/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.package-info.java">nl/tudelft/context/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.breadcrumb.Breadcrumb.java">nl/tudelft/context/breadcrumb/Breadcrumb.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.AbstractLabel.java">nl/tudelft/context/drawable/graph/AbstractLabel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.NewickController.java">nl/tudelft/context/controller/NewickController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.ViewController.java">nl/tudelft/context/controller/ViewController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.AbstractDrawableNode.java">nl/tudelft/context/drawable/graph/AbstractDrawableNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.effects.Zoom.java">nl/tudelft/context/effects/Zoom.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.AbstractNewickController.java">nl/tudelft/context/controller/AbstractNewickController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableNodeFactory.java">nl/tudelft/context/drawable/graph/DrawableNodeFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.graph.DrawableNodeLabel.java">nl/tudelft/context/drawable/graph/DrawableNodeLabel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.drawable.DrawableNewickNode.java">nl/tudelft/context/drawable/DrawableNewickNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-core/checkstyle.html#nl.tudelft.context.controller.BaseController.java">nl/tudelft/context/controller/BaseController.java</a>
                 </td>
                 <td>
                   0
