@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>AnnotationMapTest xref</title>
+<link type="text/css" rel="stylesheet" href="../../../../../stylesheet.css" />
+</head>
+<body>
+<div id="overview"><a href="../../../../../../testapidocs/nl/tudelft/context/model/annotation/AnnotationMapTest.html">View Javadoc</a></div><pre>
+
+<a class="jxr_linenumber" name="1" href="#1">1</a>   <strong class="jxr_keyword">package</strong> nl.tudelft.context.model.annotation;
+<a class="jxr_linenumber" name="2" href="#2">2</a>   
+<a class="jxr_linenumber" name="3" href="#3">3</a>   <strong class="jxr_keyword">import</strong> org.junit.BeforeClass;
+<a class="jxr_linenumber" name="4" href="#4">4</a>   <strong class="jxr_keyword">import</strong> org.junit.Test;
+<a class="jxr_linenumber" name="5" href="#5">5</a>   
+<a class="jxr_linenumber" name="6" href="#6">6</a>   <strong class="jxr_keyword">import</strong> <strong class="jxr_keyword">static</strong> org.junit.Assert.assertEquals;
+<a class="jxr_linenumber" name="7" href="#7">7</a>   
+<a class="jxr_linenumber" name="8" href="#8">8</a>   <em class="jxr_javadoccomment">/**</em>
+<a class="jxr_linenumber" name="9" href="#9">9</a>   <em class="jxr_javadoccomment"> * @author Jasper Nieuwdorp</em>
+<a class="jxr_linenumber" name="10" href="#10">10</a>  <em class="jxr_javadoccomment"> * @version 1.0</em>
+<a class="jxr_linenumber" name="11" href="#11">11</a>  <em class="jxr_javadoccomment"> * @since 21-5-2015</em>
+<a class="jxr_linenumber" name="12" href="#12">12</a>  <em class="jxr_javadoccomment"> */</em>
+<a class="jxr_linenumber" name="13" href="#13">13</a>  <strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">class</strong> <a href="../../../../../nl/tudelft/context/model/annotation/AnnotationMapTest.html">AnnotationMapTest</a> {
+<a class="jxr_linenumber" name="14" href="#14">14</a>  
+<a class="jxr_linenumber" name="15" href="#15">15</a>      <strong class="jxr_keyword">protected</strong> <strong class="jxr_keyword">static</strong> Annotation annotation1, annotation2;
+<a class="jxr_linenumber" name="16" href="#16">16</a>      <strong class="jxr_keyword">protected</strong> <strong class="jxr_keyword">static</strong> AnnotationMap annotationMap1;
+<a class="jxr_linenumber" name="17" href="#17">17</a>  
+<a class="jxr_linenumber" name="18" href="#18">18</a>  
+<a class="jxr_linenumber" name="19" href="#19">19</a>      <em class="jxr_javadoccomment">/**</em>
+<a class="jxr_linenumber" name="20" href="#20">20</a>  <em class="jxr_javadoccomment">     * Set up by creating two annotations.</em>
+<a class="jxr_linenumber" name="21" href="#21">21</a>  <em class="jxr_javadoccomment">     */</em>
+<a class="jxr_linenumber" name="22" href="#22">22</a>      @BeforeClass
+<a class="jxr_linenumber" name="23" href="#23">23</a>      <strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <strong class="jxr_keyword">void</strong> BeforeClass() {
+<a class="jxr_linenumber" name="24" href="#24">24</a>          annotation1 = <strong class="jxr_keyword">new</strong> Annotation(<span class="jxr_string">"seqId"</span>, <span class="jxr_string">"source"</span>, <span class="jxr_string">"type"</span>, 0, 1, 0f, 'A', 'B', <span class="jxr_string">"attributes"</span>);
+<a class="jxr_linenumber" name="25" href="#25">25</a>          annotation2 = <strong class="jxr_keyword">new</strong> Annotation(<span class="jxr_string">"seqId1"</span>, <span class="jxr_string">"source1"</span>, <span class="jxr_string">"type1"</span>, 2, 3, 1f, 'C', 'D', <span class="jxr_string">"attributes2"</span>);
+<a class="jxr_linenumber" name="26" href="#26">26</a>          annotationMap1 = <strong class="jxr_keyword">new</strong> AnnotationMap();
+<a class="jxr_linenumber" name="27" href="#27">27</a>          annotationMap1.put(1, annotation1);
+<a class="jxr_linenumber" name="28" href="#28">28</a>          annotationMap1.put(2, annotation2);
+<a class="jxr_linenumber" name="29" href="#29">29</a>      }
+<a class="jxr_linenumber" name="30" href="#30">30</a>  
+<a class="jxr_linenumber" name="31" href="#31">31</a>      @Test
+<a class="jxr_linenumber" name="32" href="#32">32</a>      <strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">void</strong> testToString() <strong class="jxr_keyword">throws</strong> Exception {
+<a class="jxr_linenumber" name="33" href="#33">33</a>          assertEquals(<span class="jxr_string">"Annotation(seqId:'seqId, source:'source, type:'type, start:0, end:1, score:0.0, strand:A, phase:B, attributes:attributes)"</span>
+<a class="jxr_linenumber" name="34" href="#34">34</a>                  + System.getProperty(<span class="jxr_string">"line.separator"</span>)
+<a class="jxr_linenumber" name="35" href="#35">35</a>                  + <span class="jxr_string">"Annotation(seqId:'seqId1, source:'source1, type:'type1, start:2, end:3, score:1.0, strand:C, phase:D, attributes:attributes2)"</span>
+<a class="jxr_linenumber" name="36" href="#36">36</a>                  + System.getProperty(<span class="jxr_string">"line.separator"</span>)
+<a class="jxr_linenumber" name="37" href="#37">37</a>                  , annotationMap1.toString());
+<a class="jxr_linenumber" name="38" href="#38">38</a>      }
+<a class="jxr_linenumber" name="39" href="#39">39</a>  }
+</pre>
+<hr/><div id="footer">This page was automatically generated by <a href="http://maven.apache.org/">Maven</a></div></body>
+</html>
+
