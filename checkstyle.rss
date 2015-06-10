@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>geex-models - Checkstyle report</title>
+    <link>http://github.com/Vennik/contextproject/geex-models</link>
+    <description>geex-models - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2015</copyright>
+    <item>
+      <title>File: 33,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://github.com/Vennik/contextproject/geex-models/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.Newick.java">nl/tudelft/context/model/newick/Newick.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.annotation.AnnotationMap.java">nl/tudelft/context/model/annotation/AnnotationMap.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.annotation.package-info.java">nl/tudelft/context/model/annotation/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.resistance.ResistanceFormatException.java">nl/tudelft/context/model/resistance/ResistanceFormatException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.NodeParser.java">nl/tudelft/context/model/graph/NodeParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.DefaultNode.java">nl/tudelft/context/model/graph/DefaultNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.selection.Selection.java">nl/tudelft/context/model/newick/selection/Selection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.package-info.java">nl/tudelft/context/model/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.selection.All.java">nl/tudelft/context/model/newick/selection/All.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.resistance.package-info.java">nl/tudelft/context/model/resistance/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.selection.None.java">nl/tudelft/context/model/newick/selection/None.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.Parser.java">nl/tudelft/context/model/Parser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.StackGraph.java">nl/tudelft/context/model/graph/StackGraph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.annotation.AnnotationParser.java">nl/tudelft/context/model/annotation/AnnotationParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.GraphMap.java">nl/tudelft/context/model/graph/GraphMap.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.Node.java">nl/tudelft/context/model/newick/Node.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.GraphNode.java">nl/tudelft/context/model/graph/GraphNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.resistance.ResistanceParser.java">nl/tudelft/context/model/resistance/ResistanceParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.annotation.Annotation.java">nl/tudelft/context/model/annotation/Annotation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.DefaultGraph.java">nl/tudelft/context/model/graph/DefaultGraph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.NewickParser.java">nl/tudelft/context/model/newick/NewickParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.selection.Partial.java">nl/tudelft/context/model/newick/selection/Partial.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.resistance.ResistanceMap.java">nl/tudelft/context/model/resistance/ResistanceMap.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.resistance.Resistance.java">nl/tudelft/context/model/resistance/Resistance.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.Node.java">nl/tudelft/context/model/graph/Node.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.package-info.java">nl/tudelft/context/model/graph/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.Graph.java">nl/tudelft/context/model/graph/Graph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.GraphParser.java">nl/tudelft/context/model/graph/GraphParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.package-info.java">nl/tudelft/context/model/newick/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.BaseCounter.java">nl/tudelft/context/model/graph/BaseCounter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.selection.package-info.java">nl/tudelft/context/model/newick/selection/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.graph.SinglePointGraph.java">nl/tudelft/context/model/graph/SinglePointGraph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://github.com/Vennik/contextproject/geex-models/checkstyle.html#nl.tudelft.context.model.newick.NodeParser.java">nl/tudelft/context/model/newick/NodeParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
